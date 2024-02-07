@@ -1,0 +1,9 @@
+Example kafka client in NodeJS with log4js
+The interceptor is not available in Kafka NodeJS and the docs can be seen here https://docs.confluent.io/cloud/current/client-apps/overview.html
+
+installing depedency
+"npm install kafkajs log4js"
+
+How to run
+"node ./producer.js"
+"node ./consumer.js"
